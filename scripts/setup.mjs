@@ -12,8 +12,7 @@ summary: 'This is a summary or description'
 date: '2023-01-28'
 keywords: 'hello|world|keyword'
 hero: hello-world/hero.jpg
-color: #123
-keywords: 'key,word'
+color: '#000'
 ---
 
 Hello, World!`;
